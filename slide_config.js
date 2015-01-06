@@ -2,7 +2,7 @@ var SLIDE_CONFIG = {
   // Slide settings
   settings: {
     title: 'Forbrenningsmotor',
-    subtitle: 'Et lynkurs',
+    subtitle: '(delvis) Tysk ingeniørkunst',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
