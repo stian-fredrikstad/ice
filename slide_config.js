@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Forbrenningsmotor',
+    title: 'Forbrenningsmotoren',
     subtitle: 'Tysk ingeniørkunst',
     //eventInfo: {
     //  title: 'Google I/O',
